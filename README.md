@@ -5,22 +5,22 @@
 </div>
 <br>
 <h1></h1>
-<div>
-  <li>🔭 Currenly studying Networks and Computer Systems in <a href="https://www.ua.pt/pt/estga/">UA-ESTGA</a></li>
-  <li>🌱 Learning Python, JavaScript, CSS and HTML</li>
-</div>
 
 <br/>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=afaa97&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&icon_color=2FC18C&title_color=2FC18C&bg_color=100,0F2027,203A43,2C5364" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afaa97&layout=compact&hide=dockerfile,shell&langs_count=7&theme=dracula&title_color=2FC18C&bg_color=100,0F2027,203A43,2C5364" />
+  <img height="160px" style="margin: 1px 0px 0px 0px;" src="https://github-readme-stats.vercel.app/api?username=afaa97&show_icons=true&theme=blueberry&title_color=0cf574&text_color=ffffff&icon_color=0cf574&bg_color=09131b&include_all_commits=true&count_private=true&hide_border=true&border_radius=10" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afaa97&layout=compact&hide=dockerfile,shell&langs_count=7&theme=blueberry&title_color=0cf574&text_color=ffffff&bg_color=09131b&hide_border=true&border_radius=6" />
 </div>
+
+## 📝 Overview
+
+- [x] 🔭 Currenly studying Networks and Computer Systems at [UA-ESTGA](https://www.ua.pt/pt/estga/)
+- [ ] 🌱 Learning Python, JavaScript, CSS and HTML
 
 ## 🛠️ Tools and technologies I'm familiar with
 
 ### Programming and scripting languages
-
 
 <p>
     <img alt="Python" src="https://img.shields.io/badge/»-Python-14354C.svg?logo=python&logoColor=white&color=blue">
@@ -31,7 +31,6 @@
     <img alt="Markdown" src="https://img.shields.io/badge/»-Markdown-000000.svg?logo=markdown&logoColor=white&color=blue">
     <img alt="Jupyter" src="https://img.shields.io/badge/»-Jupyter-F37626.svg?logo=Jupyter&logoColor=white&color=blue">
     <img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/»-SQL-025E8C.svg?logo=database&logoColor=white&color=blue">
-
 </p>
 
 ### Frameworks and libraries
@@ -66,24 +65,37 @@
     <img alt="OBS Studio" src="https://img.shields.io/badge/»-OBS%20Studio-302E31?logo=obs-studio&logoColor=white&color=red">
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/»-Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white&color=red">
     <img alt="PyCharm" src="https://img.shields.io/badge/»-PyCharm-informational?logo=pycharm&logoColor=white&color=red">
-</p>
+</p> 
 
-## 📫 How to reach me
-
-<div>
-  <a href="NOT YET" target="_blank"><img src="https://img.shields.io/badge/»-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=black" target="_blank"></a> 
-  <a href = "mailto:NOT YET"><img src="https://img.shields.io/badge/»-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" target="_blank"></a>
-  <a href="https://instagram.com/NOT YET" target="_blank"><img src="https://img.shields.io/badge/»-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=black" target="_blank"></a>
- <a href="NOT YET" target="_blank"><img src="https://img.shields.io/badge/»-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&color=black" target="_blank"></a> 
+<div align="center">
+  <h2>📫 How to reach me 📫 </h2>
+  <a href="NOT YET" target="_blank">
+    <img src="https://img.shields.io/badge/»-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=black" target="_blank">
+  </a> 
+  <a href = "mailto:NOT YET">
+    <img src="https://img.shields.io/badge/»-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" target="_blank">
+  </a>
+  <a href="https://instagram.com/NOT YET" target="_blank">
+    <img src="https://img.shields.io/badge/»-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=black" target="_blank">
+  </a>
+  <a href="NOT YET" target="_blank">
+   <img src="https://img.shields.io/badge/»-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&color=black" target="_blank">
+  </a> 
 </div>
-
-## ⚡ Technologies used in this neat README.md document
-- [Readme Typing SVG](https://github.com/DenverCoder1/readme-typing-svg) - For the dynamic title
-- [Shields.io](https://shields.io/) - Badges generator
-- [Github Readme Quotes](https://github.com/PiyushSuthar/github-readme-quotes) - Quotes at the bottom
 
 <br>
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</div>
+
+
+<div align="center">
+  <h4>
+    ⚡ Technologies used in this neat README.md document<p></p>
+    <a href="https://github.com/DenverCoder1/readme-typing-svg" target="_blank">Readme Typing SVG</a> // 
+    <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">GitHub Readme Stats</a> //
+    <a href="https://github.com/PiyushSuthar/github-readme-quotes" target="_blank">Github Readme Quotes</a> //
+    <a href="https://shields.io/" target="_blank">Shields.io</a>
+   </h4>
 </div>
