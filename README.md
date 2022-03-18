@@ -9,6 +9,23 @@
 <br/>
 
 <div align="center">
+  <a href="NOT YET" target="_blank">
+    <img src="https://img.shields.io/badge/»-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=black" target="_blank">
+  </a> 
+  <a href = "mailto:NOT YET">
+    <img src="https://img.shields.io/badge/»-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" target="_blank">
+  </a>
+  <a href="https://instagram.com/NOT YET" target="_blank">
+    <img src="https://img.shields.io/badge/»-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=black" target="_blank">
+  </a>
+  <a href="NOT YET" target="_blank">
+   <img src="https://img.shields.io/badge/»-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&color=black" target="_blank">
+  </a> 
+</div>
+
+<br/>
+
+<div align="center">
   <img height="160px" style="margin: 1px 0px 0px 0px;" src="https://github-readme-stats.vercel.app/api?username=afaa97&show_icons=true&theme=blueberry&title_color=0cf574&text_color=ffffff&icon_color=0cf574&bg_color=09131b&include_all_commits=true&count_private=true&hide_border=true&border_radius=10" />
   <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afaa97&layout=compact&hide=dockerfile,shell&langs_count=7&theme=blueberry&title_color=0cf574&text_color=ffffff&bg_color=09131b&hide_border=true&border_radius=6" />
 </div>
@@ -67,28 +84,13 @@
     <img alt="PyCharm" src="https://img.shields.io/badge/»-PyCharm-informational?logo=pycharm&logoColor=white&color=red">
 </p> 
 
-<div align="center">
-  <h2>📫 How to reach me 📫 </h2>
-  <a href="NOT YET" target="_blank">
-    <img src="https://img.shields.io/badge/»-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=black" target="_blank">
-  </a> 
-  <a href = "mailto:NOT YET">
-    <img src="https://img.shields.io/badge/»-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" target="_blank">
-  </a>
-  <a href="https://instagram.com/NOT YET" target="_blank">
-    <img src="https://img.shields.io/badge/»-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=black" target="_blank">
-  </a>
-  <a href="NOT YET" target="_blank">
-   <img src="https://img.shields.io/badge/»-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&color=black" target="_blank">
-  </a> 
-</div>
-
-<br>
+<br><br><br>
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </div>
 
+<br>
 
 <div align="center">
   <h4>
