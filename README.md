@@ -26,8 +26,8 @@
 <br/>
 
 <div align="center">
-  <img height="160px" style="margin: 1px 0px 0px 0px;" src="https://github-readme-stats.vercel.app/api?username=afaa97&show_icons=true&theme=blueberry&title_color=0cf574&text_color=ffffff&icon_color=0cf574&bg_color=09131b&include_all_commits=true&count_private=true&hide_border=true&border_radius=10" />
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afaa97&layout=compact&hide=dockerfile,shell&langs_count=7&theme=blueberry&title_color=0cf574&text_color=ffffff&bg_color=09131b&hide_border=true&border_radius=6" />
+  <img height="160px" style="margin: 1px 0px 0px 0px;" src="https://github-readme-stats.vercel.app/api?username=afaa97&show_icons=true&title_color=0cf574&text_color=ffffff&icon_color=0cf574&bg_color=09131b&include_all_commits=true&count_private=true&hide_border=true&border_radius=10" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afaa97&layout=compact&hide=dockerfile,shell&langs_count=7&title_color=0cf574&text_color=ffffff&bg_color=09131b&hide_border=true&border_radius=6" />
 </div>
 
 ## 📝 Overview
