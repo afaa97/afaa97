@@ -27,7 +27,7 @@
 
 ## 📝 Overview
 
-- [x] 🔭 Currenly studying Networks and Computer Systems at [UA-ESTGA](https://www.ua.pt/pt/estga/)
+- [x] 😎 Adquiring new skills
 - [x] 🌱 Learning Python, JavaScript, CSS and HTML
 
 ## 🛠️ Tools and technologies I'm familiar with
